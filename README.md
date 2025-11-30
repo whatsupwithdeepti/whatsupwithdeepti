@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="left">🌙✨ Hi, I'm Deepti Jethwani </h1>
-<h3 align="left">AI • Machine Learning • RAG • Agent Systems 🖤</h3>
+<h3 align="left">AI • Machine Learning • RAG • Agent Systems </h3>
 
 ---
 
