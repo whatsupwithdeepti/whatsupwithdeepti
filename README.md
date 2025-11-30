@@ -59,7 +59,7 @@ Coming soon…
 ---
 
 <p align="center">
-⭐ *Feel free to star my repos if you like my work!*
+*Feel free to star my repos if you like my work!*
 
 <!--
 **whatsupwithdeepti/whatsupwithdeepti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
