@@ -41,19 +41,22 @@ Coming soon…
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepti-jethwani&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepti-jethwani&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepti-jethwani&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepti-jethwani&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/deeptijethwani-dyp/"><img src="https://img.shields.io/badge/LinkedIn-Deepti_Jethwani-blue?style=for-the-badge&logo=linkedin"></a>
+## 🦋 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/deeptijethwani-dyp/">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepti_Jethwani-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=ffffff">
+  </a>
 </p>
 
 ---
 
+<p align="center">
 ⭐ *Feel free to star my repos if you like my work!*
 
 <!--
