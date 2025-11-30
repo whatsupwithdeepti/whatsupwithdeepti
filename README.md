@@ -1,5 +1,12 @@
-<h1 align="center">👋 Hey, I'm Deepti Jethwani</h1>
-<h3 align="center">AI • Machine Learning • RAG • Agent Systems</h3>
+<!-- Dark Kawaii Header -->
+<h1 align="center">🌙✨ Hi, I'm Deepti Jethwani ✨🌙</h1>
+<h3 align="center">🖤 AI • Machine Learning • RAG • Agent Systems 🖤</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻-AI Engineering-1d1f21?style=for-the-badge&color=8f7cec">
+  <img src="https://img.shields.io/badge/🌙-Machine Learning-1d1f21?style=for-the-badge&color=6c5ce7">
+  <img src="https://img.shields.io/badge/🧸-Python-1d1f21?style=for-the-badge&color=a29bfe">
+</p>
 
 ---
 
@@ -48,7 +55,7 @@ Coming soon…
 
 ---
 
-⭐ **If you like my projects, don’t forget to star them!**
+⭐ *Feel free to star my repos if you like my work!*
 
 <!--
 **whatsupwithdeepti/whatsupwithdeepti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
