@@ -55,6 +55,10 @@ Coming soon…
   <a href="https://www.linkedin.com/in/deeptijethwani-dyp/">
     <img src="https://img.shields.io/badge/LinkedIn-Deepti_Jethwani-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=ffffff">
   </a>
+  <a href="mailto:deeptijethwani8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-deeptijethwani8%40gmail.com-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
