@@ -10,16 +10,15 @@
 
 ---
 
-## 🚀 About Me  
+## 🦇 About Me  
 - 🎓 Third-year Artificial Intelligence & Data Science student  
-- 🤖 Passionate about **Machine Learning, AI Engineering, Agents, RAG, and Data Science**  
-- 🌱 Currently improving: **ML model building, LangChain, LangGraph**  
-- 💡 I learn by building real projects — not just watching tutorials  
+- 🌙 Passionate about **Machine Learning, AI Engineering, Agents, RAG, and Data Science**  
+- 🪄 Currently improving: **ML model building, LangChain, LangGraph**  
+- 🎧 Coder who works with coffee + late-night playlists    
  
-
 ---
 
-## 🛠️ Technical Skills  
+## 🌌 Technical Skills  
 
 ### **Programming & Development**
 - **Languages:** Python
@@ -29,7 +28,7 @@
 ### **Machine Learning & AI**
 - **Core ML:** Supervised/Unsupervised ML, Model evaluation, Optimization, Feature engineering, EDA  
 
-## 📌 Featured Projects  
+## 🐾 Featured Projects  
 
 ### 🎬 Movie Revenue Prediction  
 ML model to predict movie revenue + Streamlit UI  
