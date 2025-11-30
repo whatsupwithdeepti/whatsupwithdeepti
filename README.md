@@ -42,12 +42,6 @@ Coming soon…
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=whatsupwithdeepti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatsupwithdeepti&layout=compact&theme=tokyonight" />
-</p>
-
 
 ---
 
