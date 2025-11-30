@@ -12,38 +12,6 @@
 
 ---
 
-ChatGPT said:
-
-Perfect, Deepti — your résumé is excellent, clean, and already professional.
-I’ll now create a GitHub Profile README that matches your résumé, so everything feels aligned, polished, and recruiter-friendly.
-
-This README will be:
-
-✔ Professional
-✔ AI Engineering–focused
-✔ Clean design
-✔ Matching your resume’s tone
-✔ Highlighting your strongest skills
-✔ Showing your experience + projects properly
-
-No unnecessary emojis.
-No clutter.
-No cartoon theme.
-Just pure professional AI engineer vibes.
-
-✅ FINAL GitHub Profile README (based on your resume — Copy–Paste this)
-<h1 align="center">👋 Hi, I'm Deepti Jethwani</h1>
-<h3 align="center">AI Engineering Student | Machine Learning | LangChain | RAG | Agents</h3>
-
----
-
-## 💼 Professional Summary  
-Artificial Intelligence & Data Science student skilled in Python, Machine Learning, Generative AI, and LLM-based application development. Experienced in building AI assistants, RAG pipelines, multi-agent workflows, and data-driven applications using LangChain, LangGraph, embeddings, vector databases, and workflow orchestration.
-
-I enjoy creating **real-world AI systems**, not just academic projects — and I’m actively seeking opportunities to apply my skills in meaningful product development environments.
-
----
-
 ## 🛠️ Technical Skills  
 
 ### **Programming & Development**
