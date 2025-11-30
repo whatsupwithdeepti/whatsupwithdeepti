@@ -1,4 +1,7 @@
-<!-- Dark Kawaii Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/whatsupwithdeepti/whatsupwithdeepti/main/banner.mp4" width="100%" />
+</p>
+
 <h1 align="center">🌙✨ Hi, I'm Deepti Jethwani ✨🌙</h1>
 <h3 align="center">🖤 AI • Machine Learning • RAG • Agent Systems 🖤</h3>
 
