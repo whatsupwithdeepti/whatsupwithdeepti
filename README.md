@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/whatsupwithdeepti/whatsupwithdeepti/main/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">🌙✨ Hi, I'm Deepti Jethwani ✨🌙</h1>
-<h3 align="center">🖤 AI • Machine Learning • RAG • Agent Systems 🖤</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/💻-AI Engineering-1d1f21?style=for-the-badge&color=8f7cec">
   <img src="https://img.shields.io/badge/🌙-Machine Learning-1d1f21?style=for-the-badge&color=6c5ce7">
   <img src="https://img.shields.io/badge/🧸-Python-1d1f21?style=for-the-badge&color=a29bfe">
 </p>
+
+<h1 align="left">🌙✨ Hi, I'm Deepti Jethwani </h1>
+<h3 align="left">AI • Machine Learning • RAG • Agent Systems 🖤</h3>
 
 ---
 
