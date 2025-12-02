@@ -25,7 +25,7 @@
 
 ### **Programming & Development**
 - **Languages:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Streamlit  
 - **Databases:** SQL, Vector Databases (FAISS, ChromaDB)  
 
 ### **Machine Learning & AI**
