@@ -40,8 +40,6 @@ ML model to predict movie revenue + Streamlit UI
 ### ❤️ Heart Disease Prediction  
 Coming soon…
 
----
-
 
 ---
 
